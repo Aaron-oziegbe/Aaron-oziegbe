@@ -1,16 +1,18 @@
-### Hi there 👋
+Hello, I'm Aaron
 
-<!--
-**Aaron-oziegbe/Aaron-oziegbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT support specialist and cyber security analyst. i have a degree in computer engineering. i love making research and learning about history.
 
-Here are some ideas to get you started:
+Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey in computer engineering has led me to develop a passion for IT and cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+Skills
+
+
+Skill	Associated Project
+
+
+ 
+SIEM
+  
+Certifications
